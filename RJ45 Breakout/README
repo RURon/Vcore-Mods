@@ -1,0 +1,10 @@
+This is a break out board to be mounted onto the print head to be able to use a standard ethernet cable to connect low power parts, namely:
+
+- Thermistor
+- 3 wire probe (I use a VINDA that needs 5V, GND and Signal)
+- Hotend and Coldend fans (I use 12 V variants here)
+- 12V LED strip (I created a special fang that has space for a little 12V LED strip to illuminate the nozzle area)
+
+This makes is easy to replace eventually broken cables with a simple patch cable that you can buy anywhere. Currently, I use a 70cm long cable.
+On the printer side you will either need another of the pcb or for example the Adafruit RJ45 breakout board or your own solution (like you could cut a cable and simply connect the wires to your board)
+
