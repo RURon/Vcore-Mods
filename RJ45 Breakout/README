@@ -8,3 +8,4 @@ This is a break out board to be mounted onto the print head to be able to use a 
 This makes is easy to replace eventually broken cables with a simple patch cable that you can buy anywhere. Currently, I use a 70cm long cable.
 On the printer side you will either need another of the pcb or for example the Adafruit RJ45 breakout board or your own solution (like you could cut a cable and simply connect the wires to your board)
 
+In case you want to fabricate your own pcbs, you could try using the included zip file, which is compatible with Aisler and also Jlcpcb
