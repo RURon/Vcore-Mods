@@ -28,4 +28,4 @@ On the printer side you will either need another of the pcb or for example the A
 
 My strain relief replacement features side ways cable management "wings" that might be helpful but you could do without them probably.
 
-In case you want to fabricate your own pcbs, you could try using the included zip file, which is compatible with Aisler and also Jlcpcb
+In case you want to fabricate your own pcbs, you could try using the included zip file with all Gerber files, which is compatible with Aisler and also Jlcpcb
