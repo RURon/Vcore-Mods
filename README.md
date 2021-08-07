@@ -1,2 +1,3 @@
-# Vcore-Mods
-My moddings for my Ratrig VCore3-300 build
+# Vcore-Mods #
+
+My mods for my Ratrig VCore3-300 build
