@@ -1,4 +1,4 @@
-##RJ45 Breakout board
+##RJ45 Breakout board##
 
 This is a break out board to be mounted onto the print head to be able to use a standard ethernet cable to connect low power parts, namely:
 
