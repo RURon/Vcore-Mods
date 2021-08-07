@@ -2,7 +2,7 @@
 
 This is a break out board to be mounted onto the print head to be able to use a standard ethernet cable to connect low power parts, namely:
 
-![](https://github.com/RURon/Vcore-Mods/edit/main/RJ45%20Breakout/RJ45_Adapter.png)
+![](https://github.com/RURon/Vcore-Mods/blob/main/RJ45%20Breakout/RJ45_Adapter.png)
 
 - Thermistor
 - 3 wire probe (I use a VINDA that needs 5V, GND and Signal)
