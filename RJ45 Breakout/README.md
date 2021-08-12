@@ -28,6 +28,8 @@ On the printer side you will either need another of the pcb or for example the A
 
 My strain relief replacement features side ways cable management "wings" that might be helpful but you could do without them probably.
 
+On my VCore-3 300 I found out a 65cm long Ethernet cable works best. Patch cables vary in actual length compared to nominated length - this 65cm cable that I use is sold as 50cm length! Here is the link to my specific model: ![](https://www.amazon.de/gp/product/B07S9SZB9L)
+
 In case you want to fabricate your own pcbs, you could try using the included zip file with all Gerber files, which is compatible with Aisler and also Jlcpcb
 
 My own produced PCBs had a design flaw: The Fusion360 Eagle connector library has mistakes in the XH connectors. This leads to too small holes for the connector pins. I fixed this in the provided Gerber and Eagle files but in case you got the same problem, you can sand/file down the XH pins a little (to make their crosssection round instead of square) so that they fit more easily.
