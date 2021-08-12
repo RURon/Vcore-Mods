@@ -28,7 +28,7 @@ On the printer side you will either need another of the pcb or for example the A
 
 My strain relief replacement features side ways cable management "wings" that might be helpful but you could do without them probably.
 
-On my VCore-3 300 I found out a 65cm long Ethernet cable works best. Patch cables vary in actual length compared to nominated length - this 65cm cable that I use is sold as 50cm length! Here is the link to my specific model: ![](https://www.amazon.de/gp/product/B07S9SZB9L)
+On my VCore-3 300 I found out a 65cm long Ethernet cable works best. Patch cables vary in actual length compared to nominated length - this 65cm cable that I use is sold as 50cm length! Here is the link to my specific model: [](https://www.amazon.de/gp/product/B07S9SZB9L)
 
 In case you want to fabricate your own pcbs, you could try using the included zip file with all Gerber files, which is compatible with Aisler and also Jlcpcb
 
