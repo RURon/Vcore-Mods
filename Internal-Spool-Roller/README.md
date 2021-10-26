@@ -11,7 +11,8 @@ Last not least I created a little mount for another endstop style micro switch t
 You need 2 x 608 bearings and a 8mm rod, 94mm long for each roller.
 
 
-![](https://github.com/RURon/Vcore-Mods/blob/main/Internal Spool Roller/internalspool1.png)
-![]("https://github.com/RURon/Vcore-Mods/blob/main/Internal Spool Roller/BTTsensormount.png")
+![](https://github.com/RURon/Vcore-Mods/blob/main/Internal-Spool-Roller/internalspool1.png)
+![](https://github.com/RURon/Vcore-Mods/blob/main/Internal-Spool-Roller/BTTsensormount.png)
+
 
 
