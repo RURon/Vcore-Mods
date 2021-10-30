@@ -8,4 +8,4 @@ DXF files for the panels are provided. It is designed for 3mm panels together wi
 
 You also need M3 heat inserts, sized "M3-.05 SHORT" - if you already have heat inserts, maybe check the hole sizes and adjust accordingly.
 
-![](https://github.com/RURon/Vcore-Mods/blob/main/VCore3-300-Velo17.png)
+![](https://github.com/RURon/Vcore-Mods/blob/main/Lid/Lid.png)
