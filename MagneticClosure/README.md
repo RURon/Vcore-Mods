@@ -1,7 +1,6 @@
-## RatRig Nut ##
+## Magnetic Closure Mod ##
 
-This is a cosmetical replacement for the magnetic door closing part that is attached to the door. Instead of screwing a M6 screw from outside to inside and fixing it with a nut on the inside, I flip the screw and attach this printed nut from the outside. For this to work you need to have a M6x7 screw or cut one to length. You can print the part with color change if you like! For the bottom variant I created a simple plastic nut...
+This is only a small modification of the original magnet mount for the door closure. I added a slot so that you can move it back and forth. Additionally I opted for different magnets that can be secured by a countersunk M3 screw. [Link to Amazon De](https://www.amazon.de/gp/product/B00XJDN2Z0)
 
-![](https://github.com/RURon/Vcore-Mods/blob/main/Ratrig-Nut/M6RatrigNuts.png)
-![](https://github.com/RURon/Vcore-Mods/blob/main/Ratrig-Nut/M6ScrewNut.png)
-![](https://github.com/RURon/Vcore-Mods/blob/main/Ratrig-Nut/ratnuts.jpg)
+![](https://github.com/RURon/Vcore-Mods/blob/main/MagneticClosure/magnet_mount.png)
+
