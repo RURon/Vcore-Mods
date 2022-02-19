@@ -4,8 +4,6 @@ This mod adds a top lid to the 300 VCore3. It is a mod of cyborgcnc's design: [L
 
 You will need to print the two top corner brackets twice, 4 side clips, 8 bottom and 8 top clips.
 
-***Warning: Just noticed that the STLs in the sub folder are not up to date. The top corner brackets STLs are wrong! Either use the TopCorner STEP files and generate the STLs from them or wait for me to fix the STLs***
-
 DXF files for the panels are provided. It is designed for 3mm panels together with 1mm of compression (5mm wide) tape or similiar.
 
 You also need M3 heat inserts, sized "M3-.05 SHORT" - if you already have heat inserts, maybe check the hole sizes and adjust accordingly.
